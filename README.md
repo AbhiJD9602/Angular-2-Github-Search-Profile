@@ -2,7 +2,7 @@
 
 Angular 2 Github Api Example.
 
-**Change Girhub Api Token** => /app/services/github.service.ts
+**Change Github Api Token** => /app/services/github.service.ts
 ```bash
 private clientId: string = '<Client Id>';
 private clientSecret: string = '<Client Secret Key>';
