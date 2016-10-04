@@ -1,5 +1,5 @@
 {
-  "name": "angular-quickstart",
+  "name": "Angular 2 Github Search Profile",
   "version": "1.0.0",
   "description": "QuickStart package.json from the documentation, supplemented with testing support",
   "scripts": {
@@ -19,7 +19,7 @@
     "webdriver:update": "webdriver-manager update"
   },
   "keywords": [],
-  "author": "",
+  "author": "Taha İPEK",
   "license": "ISC",
   "dependencies": {
     "@angular/common":  "~2.0.1",
