@@ -9,7 +9,21 @@ private clientSecret: string = '<Client Secret Key>';
 ```
 
 
---------------------------------------------------
+----------
+
+
+![Angular 2 Github Api Example](https://raw.githubusercontent.com/tahaipek/Angular-2-Github-Search-Profile/master/Preview.png)
+
+
+----------
+
+
+----------
+
+
+----------
+
+
 
 # Angular 2 QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
