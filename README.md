@@ -7,7 +7,7 @@ Angular 2 Github Api Example.
 private clientId: string = '<Client Id>';
 private clientSecret: string = '<Client Secret Key>';
 ```
-
+###DEMO => https://tahaipek.github.io/Angular-2-Github-Search-Profile/
 
 ----------
 
