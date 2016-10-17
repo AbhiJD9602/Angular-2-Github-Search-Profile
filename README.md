@@ -1,6 +1,9 @@
 # Angular 2 Github Search Profile
+Angular 2 Github Api Example. 
+Updated Angular Dependencies to 2.1.0 ([Issues](https://github.com/tahaipek/Angular-2-Github-Search-Profile/issues/1))
 
-Angular 2 Github Api Example.
+
+
 
 **Change Github Api Token** => /app/services/github.service.ts
 ```bash
@@ -8,6 +11,7 @@ private clientId: string = '<Client Id>';
 private clientSecret: string = '<Client Secret Key>';
 ```
 ###DEMO => https://tahaipek.github.io/Angular-2-Github-Search-Profile/
+
 
 ----------
 
