@@ -1,5 +1,6 @@
 # Angular 2 Github Search Profile
 Angular 2 Github Api Example. 
+
 Updated Angular Dependencies to 2.1.0 ([Issues](https://github.com/tahaipek/Angular-2-Github-Search-Profile/issues/1))
 
 
